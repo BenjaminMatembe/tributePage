@@ -2,5 +2,6 @@
 
 ---
 
-To see ready project online [Click here](https://github.com/BenjaminMatembe/tributePage/) .
+To see ready project online [Click here](https://BenjaminMatembe.github.io/tributePage/) .
+
 
