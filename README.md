@@ -12,7 +12,7 @@ This is a blog about Dr Norman Borlaug the man who saved a billion lives through
 
 ![SCREENSHOT](./img/tribute%20view.png)
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <
 
   <ul>
     <li><a href="https://www.w3schools.com/html/">HTML</a></li>
@@ -22,11 +22,11 @@ This is a blog about Dr Norman Borlaug the man who saved a billion lives through
     <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
   </ul>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo
 
 To see ready project online [Click here](https://BenjaminMatembe.github.io/tributePage/) .
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started 
 
 > Follow these stpes to get a copy of the project on your local machine.
 
@@ -52,7 +52,7 @@ The project is already deployed using github pages on the link below
 <a href="https://BenjaminMatembe.github.io/tributePage/">Tribute Page</a>
 
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors
 
 👤 **Benjamin Matembe**
 
@@ -64,17 +64,17 @@ The project is already deployed using github pages on the link below
 
 - GitHub: [@githubhandle](https://github.com/Hacking-NASSA-with-HTML?tab=repositories)
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support
 
 Give a ⭐️ if you like this project!
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments
 
 I would like to thank my coding partner for the collaboration rendered in the development of this project.
